@@ -1,4 +1,4 @@
-![389206464-4d0066f0-975c-45e2-b66b-6b9f422905e2](https://github.com/user-attachments/assets/7a06b77d-a546-4353-a591-492c038f283d)# RESTful Web Services
+# RESTful Web Services
 
 ## Aim
 To create RESTful web services using both server-side and client-side implementations.
